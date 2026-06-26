@@ -1,7 +1,7 @@
 
 <table><tr><th>#</th><th>Photo</th><th>Nominal</th><th>Actual</th><th>New/Reclaimed</th></tr>
 <tr><td>1</td><td><a href="images/eve_3100.jpg"><img src="images/eve_3100_small.jpg" alt="EVE"></a></td><td>3500</td><td>3140</td><td>N</td></tr>
-<tr><td>2</td><td><a href="images/lishen_3500.jpg"><img src="images/lishen_3500_small.jpg" alt="LISHEN"></a></td><td>3950</td><td>3140</td><td>R</td></tr>
+<tr><td>2</td><td><a href="images/lishen_3500.jpg"><img src="images/lishen_3500_small.jpg" alt="LISHEN"></a></td><td>3950</td><td>3500</td><td>R</td></tr>
 <tr><td>3</td><td><a href="images/molicel_3500.jpg"><img src="images/molicel_3500_small.jpg" alt="MOLICEL"></a></td><td>3500</td><td>3180</td><td>N</td></tr>
 <tr><td>4</td><td><a href="images/samsung_2600.jpg"><img src="images/samsung_2600_small.jpg" alt="SAMSUNG"></a></td><td>3000</td><td>2660</td><td>R</td></tr>
 <tr><td>5</td><td><a href="images/vapcell_2700.jpg"><img src="images/vapcell_2700_small.jpg" alt="VAPCELL"></a></td><td>3000</td><td>2710</td><td>N</td></tr>
