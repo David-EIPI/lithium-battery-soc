@@ -1,5 +1,5 @@
 
-<table><tr><th>#</th><th>Photo</th><th>Nominal</th><th>Actual</th><th></th><th>New/Reclaimed</th></tr>
+<table><tr><th>#</th><th>Photo</th><th>Nominal</th><th>Actual</th><th>New/Reclaimed</th></tr>
 <tr><td>1</td><td><a href="images/eve_3100.jpg"><img src="images/eve_3100_small.jpg" alt="EVE"></a></td><td>3500</td><td>3140</td><td>N</td></tr>
 <tr><td>2</td><td><a href="images/lishen_3500.jpg"><img src="images/lishen_3500_small.jpg" alt="LISHEN"></a></td><td>3950</td><td>3140</td><td>R</td></tr>
 <tr><td>3</td><td><a href="images/molicel_3500.jpg"><img src="images/molicel_3500_small.jpg" alt="MOLICEL"></a></td><td>3500</td><td>3180</td><td>N</td></tr>
