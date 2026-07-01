@@ -1,5 +1,5 @@
 
-|"#" | Photo | Nominal | Actual | New/Reclaimed |
+| # | Photo | Nominal | Actual | New/Reclaimed |
 | --- | --- | --- | --- | --- |
 |1 | [![EVE](images/eve_3100_small.jpg)](images/eve_3100.jpg) | 3500 | 3140 | N |
 |2 | [![LISHEN](images/lishen_3500_small.jpg)](images/lishen_3500.jpg) | 3950 | 3500 | R |
@@ -13,6 +13,7 @@
 |10 | [![NONAME](images/noname_2100_small.jpg)](images/noname_2100.jpg) | ? | 2120 | R |
 |11 | [![SAMSUNG](images/samsung_1750_small.jpg)](images/samsung_1750.jpg) | 2000 | 1800 | R |
 |12 | [![SAMSUNG](images/samsung_1950_small.jpg)](images/samsung_1950.jpg) | 2500 | 2020 | R |
-|13 | [![LG](images/LG_1000_small.jpg)](images/LG_1000.jpg) | 1300 | 1080 | R |
-|14 | [![SE](images/SE_1300_small.jpg)](images/SE_1300.jpg) | 1600 | 1330 | R |
-|15 | [![CJ](images/cj_1100_small.jpg)](images/cj_1100.jpg) | 1500 | 1160 | R |
+|13 | [![SAMSUNG](images/samsung_2400_small.jpg)](images/samsung_2400.jpg) | 2500 | 2400 | N |
+|14 | [![LG](images/LG_1000_small.jpg)](images/LG_1000.jpg) | 1300 | 1080 | R |
+|15 | [![SE](images/SE_1300_small.jpg)](images/SE_1300.jpg) | 1600 | 1330 | R |
+|16 | [![CJ](images/cj_1100_small.jpg)](images/cj_1100.jpg) | 1500 | 1160 | R |
