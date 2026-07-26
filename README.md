@@ -31,15 +31,7 @@ Because the tables have internal linkage in a header, an unoptimized program may
 
 ## Measurement and processing
 
-The cells were discharged at 200 mA using an Opus BT-C3100 charger. Cell voltage under load was recorded with a separate voltage logger. The raw measurements are stored in [`raw_data/`](raw_data):
-
-- Column 1: elapsed time, in seconds
-- Column 2: measured cell voltage, in volts
-
-Some cells were tested more than once; repeated runs have suffixes such as `_2` and `_3`.
-
-The processing scripts apply a 20 mV voltage correction and a 600-second moving-average filter. SOC is derived from elapsed discharge time under the assumed constant 200 mA current and normalized so that the beginning and end of each run correspond to SOC values of 1.0 and 0.0. Where multiple runs exist for one cell, their voltage values are averaged at equal SOC intervals.
-
+The cells were discharged at 200 mA using an Opus BT-C3100 charger. Cell voltage under load was recorded with a separate voltage logger. 
 The processed curves are stored in [`discharge/`](discharge). Each file contains 51 rows at 2-percentage-point SOC intervals:
 
 - Column 1: SOC fraction, from 1.000 to 0.000
